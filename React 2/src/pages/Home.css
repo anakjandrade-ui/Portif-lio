@@ -1,0 +1,25 @@
+.home {
+  text-align: center;
+  padding: 80px 20px;
+  color: black;
+}
+
+.home h1 {
+  font-size: 48px;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+
+.home h2 {
+  font-size: 24px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 18px;
+  font-weight: 700;
+  max-width: 700px;
+  margin: 15px auto;
+  line-height: 1.6;
+}
